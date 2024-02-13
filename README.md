@@ -77,10 +77,10 @@ Responsibilities:
 ## Projects
 - Here are a couple of my recent projects:
    - FootballAssociation
-   - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/nZUHM7uCoBgG/FootballAssociation/)
+       - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/nZUHM7uCoBgG/FootballAssociation/)
      
    - BudgetBuddy
-   - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/tyRNhfrpLWKk/budgetbuddy/)
+       - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/tyRNhfrpLWKk/budgetbuddy/)
 
 ## Contact
 Feel free to reach out to me at:
