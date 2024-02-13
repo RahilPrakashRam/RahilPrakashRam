@@ -74,6 +74,14 @@ Responsibilities:
 - Exploring personal goals in depth through work engagement.
 - Learning from respected computer science seniors and unlocking new personal potential.
 
+## Projects
+- Here are a couple of my recent projects:
+   - FootballAssociation
+   - Repository: Private Repository
+     
+   - BudgetBuddy
+   - Repository: Private Repository
+
 ## Contact
 Feel free to reach out to me at:
 - Email: ramrahil216@gmail.com
