@@ -60,13 +60,13 @@ Notable Projects:
 
 ### Teaching Assistant at The University of South Pacific (Feb 2023 – Present)
 Responsibilities:
-- Conducting laboratory sessions, providing feedback and support, grading assessments.
+- Conducting laboratory sessions, providing feedback and support, and grading assessments.
 - Collaborating with course instructors and other TAs, contributing to course development.
 
 ### Internship: IT Support at Vinod Patel Limited (Nov 2018 – Feb 2019)
 Responsibilities:
 - Troubleshoot hardware and software issues.
-- Assist in office administrative duties and setup computers for new employees.
+- Assist in office administrative duties and set up computers for new employees.
 
 ## Hobbies
 - Understanding different cultures through work/learning engagements.
@@ -77,10 +77,10 @@ Responsibilities:
 ## Projects
 - Here are a couple of my recent projects:
    - FootballAssociation
-       - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/nZUHM7uCoBgG/FootballAssociation/)
+       - Repository: [Private Repository](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Association%20README.md)   
      
    - BudgetBuddy
-       - Repository: [Private Repository](https://gitfront.io/r/rahilprakashram/tyRNhfrpLWKk/budgetbuddy/)
+       - Repository: [Private Repository](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Budget%20Buddy%20README.md)  
 
 ## Contact
 Feel free to reach out to me at:
