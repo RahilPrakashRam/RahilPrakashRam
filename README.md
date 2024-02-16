@@ -75,7 +75,7 @@ Responsibilities:
 - Learning from respected computer science seniors and unlocking new personal potential.
 
 ## Projects
-- Here are a couple of my work in progress projects:
+- Here are a couple of my work-in-progress projects:
    - FootballAssociation
        - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Association%20README.md)   
      
@@ -86,4 +86,8 @@ Responsibilities:
 Feel free to reach out to me at:
 - Email: ramrahil216@gmail.com
 - Phone: +679 8697700
+
+## Book a Demo
+Would you like to see a demonstration of my work? Click the button below to book a demo:
+- <a href="mailto:ramrahil216@gmail.com?subject=Demo%20Request">Book a Demo</a>
 
