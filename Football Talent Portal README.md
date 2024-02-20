@@ -1,9 +1,9 @@
-# Football Association
+# Football Talent Portal
 
-**Project Name**: Football Association Player Database Talent Identification System
+**Project Name**: Football Talented Player Database Talent Identification System
 
 **Description**:
-The Football Association Player Database Talent Identification System aims to create a comprehensive database of young football players under the age of 15. It will track their performance, history, and provide a platform for talent identification. 
+The Football Talented Player Database Talent Identification System aims to create a comprehensive database of young football players under the age of 15. It will track their performance, history, and provide a platform for talent identification. 
 
 **Features**:
 - **Database**: Holds information on 1000 kids under 15 years old.
@@ -36,5 +36,5 @@ The Football Association Player Database Talent Identification System aims to cr
 - For inquiries or support, please contact Rahil Prakash Ram at +6798697700 / ramrahil216@gmail.com.
 
 **Version History**:
-- v1.0.0 - 13-02-2024: Initial release of the Football Association Player Database Talent Identification System.
+- v1.0.0 - 20-02-2024: Initial release of the Football Association Player Database Talent Identification System.
 
