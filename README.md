@@ -77,7 +77,7 @@ Responsibilities:
 ## Projects
 - Here are a couple of my projects:
    - FootballAssociation (Work-in-progress)
-       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Association%20README.md)   
+       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Talent%20Portal%20README.md)   
      
    - BudgetBuddy (Completed)
        - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Budget%20Buddy%20README.md)
