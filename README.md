@@ -75,11 +75,11 @@ Responsibilities:
 - Learning from respected computer science seniors and unlocking new personal potential.
 
 ## Projects
-- Here are a couple of my work-in-progress projects:
-   - FootballAssociation
+- Here are a couple of my projects:
+   - FootballAssociation (Work-in-progress)
        - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Association%20README.md)   
      
-   - BudgetBuddy
+   - BudgetBuddy (Completed)
        - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Budget%20Buddy%20README.md)  
 
 ## Contact
