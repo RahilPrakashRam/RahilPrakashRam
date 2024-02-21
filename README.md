@@ -83,7 +83,7 @@ Responsibilities:
        - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Budget%20Buddy%20README.md)
 
    - TicTacToe (Completed)
-       - Repository: [README.md]((https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/TicTacToe%20README.MD))  
+       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/TicTacToe%20README.MD)  
 
 ## Contact
 Feel free to reach out to me at:
