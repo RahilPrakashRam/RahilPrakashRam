@@ -37,4 +37,3 @@ The Football Talented Player Database Talent Identification System aims to creat
 
 **Version History**:
 - v1.0.0 - 20-02-2024: Initial release of the Football Association Player Database Talent Identification System.
-
