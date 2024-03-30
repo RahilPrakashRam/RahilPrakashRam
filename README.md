@@ -1,4 +1,4 @@
-![logo](https://github.com/RahilPrakashRam/RahilPrakashRam/assets/142094928/91cb7e47-2947-4ea0-b1a5-1cb312af6bff)
+
 
 ![image](https://github.com/RahilPrakashRam/RahilPrakashRam/assets/142094928/9707127b-e4f9-4161-9ddd-46c18a4ecba7)
 
