@@ -1,6 +1,5 @@
 
 
-![image](https://github.com/RahilPrakashRam/RahilPrakashRam/assets/142094928/9707127b-e4f9-4161-9ddd-46c18a4ecba7)
 
 
 ## Rahil Prakash Ram
