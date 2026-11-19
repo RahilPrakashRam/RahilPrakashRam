@@ -1,100 +1,182 @@
+# Hi, I'm Rahil Prakash Ram 👋
 
+### Full-Stack Developer | .NET Developer | AI/ML Enthusiast | Game Developer
 
+I'm a Software Application Developer based in Suva, Fiji, with **3+ years of professional experience** designing, developing, deploying, and supporting enterprise applications.
 
+My primary focus is full-stack development using **C#, ASP.NET Core, SQL Server, and Microsoft Azure**. I enjoy building practical software solutions, solving complex technical problems, and exploring emerging technologies.
 
-## Rahil Prakash Ram
+I'm also expanding my knowledge in **Artificial Intelligence and Machine Learning**, while exploring **3D game development using Unity and Blender**.
 
-## About Me
-Greetings! I'm Rahil, a passionate software developer with a focus on web and mobile applications. I excel in user interface design, testing, and debugging processes, ensuring the delivery of high-quality software solutions. My experience spans full-stack development, where I've demonstrated proficiency in both front-end and back-end technologies. I enjoy leveraging my technological proficiency across a diverse range of languages and frameworks, including Laravel Blade, Flutter, ASP.NET, VB.NET, HTML/CSS, C++, Python, Java, Android Studio, and MySQL, to develop and customize software solutions.
+Currently pursuing a Postgraduate Degree in Information Systems at The University of the South Pacific (USP).
 
-## Skills
-### Programming Languages:
+---
+
+## 🚀 What I'm Working On
+
+- 💻 Developing enterprise applications using .NET and Microsoft technologies.
+- 🤖 Expanding my knowledge of Artificial Intelligence, Machine Learning, Python, and Data Science.
+- 🎮 Learning Unity and Blender for stylized 3D game development.
+- 🏝️ Developing a personal 3D Island Survival Game inspired by tropical environments and survival gameplay.
+- ☁️ Exploring cloud architecture, Azure services, and modern application development practices.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - C#
-- Visual Basic 6.0
-- C++
 - Python
-- Java
 - JavaScript
+- SQL
+- HTML5 & CSS3
+
+### Frameworks & Technologies
+- .NET / ASP.NET Core
+- ASP.NET MVC
+- Entity Framework Core
+- RESTful APIs
+- JWT Authentication
+- Bootstrap
 - jQuery
-- R language
-- Dart (used with Flutter)
-- PHP
 
-### Frameworks and Libraries:
-- .NET Frameworks 3.5 and 4.0
-- ASP.NET
-- ASP.NET Core
-- MVC (Model-View-Controller)
-- Android Studio (for Android app development)
-- Flutter (for cross-platform app development)
-- Laravel (for PHP web application development)
-
-### Databases:
-- Microsoft Access
+### Databases
+- Microsoft SQL Server
 - MySQL
-- Microsoft SQL Server Management
 
-## Achievements
-- Microsoft Azure AI Fundamentals
-- AWS Certified Solutions Architect Associate (SAA-C03)
-- AZ-305 Designing Microsoft Azure Infrastructure Solutions
-- Penetration Testing and Ethical Hacking
-- Various LinkedIn Learning certifications in Java, Python, Full-Stack Web Development, Java EE 7 Development, RESTFUL API Development, JavaScript, Microsoft Power BI, and SQL Development.
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- CI/CD Pipelines
+- Microsoft IIS
+- Git & GitHub
 
-## Education
-- Bachelor of Science double major in Computing Science and Information Systems from The University of South Pacific (2020-2024), with a current GPA of 3.19.
-- Notable project: Developed a Request for Information System (RTI) using PHP, Laravel, Dart, and Flutter.
+### Business Intelligence & CMS
+- Microsoft Power BI
+- Microsoft Excel
+- WordPress
+- Umbraco CMS
+- Sitefinity CMS
+- SharePoint
 
-## Experiences
-### Software Developer at Datec Fiji LTD (Jul 2023 – Present)
-Responsibilities:
-- Conducted thorough analysis and evaluation of existing business systems and procedures.
-- Assisted in defining, developing, and documenting software’s business requirements.
-- Created and maintained user manuals and guidelines for software applications.
-- Provided tailored training sessions to end users and offered support beyond regular business hours.
-- Utilized Azure for code repository and Git for version control.
+### AI, Machine Learning & Game Development
+- Python for Machine Learning
+- Azure Machine Learning
+- Data Science
+- Unity
+- Blender
+- 3D Modelling and Game Development
 
-Notable Projects:
-- Tertiary Scholarship and Loans Service (TSLS) Advisory
-- TSLS Complaint Management System
-- Vodafone VStock Fiji & PNG
-- Inkk Website
-- iTaukei Land Trust Board Solution
-- And more...
+---
 
-### Teaching Assistant at The University of South Pacific (Feb 2023 – Present)
-Responsibilities:
-- Conducting laboratory sessions, providing feedback and support, and grading assessments.
-- Collaborating with course instructors and other TAs, contributing to course development.
+## 💼 Professional Experience
 
-### Internship: IT Support at Vinod Patel Limited (Nov 2018 – Feb 2019)
-Responsibilities:
-- Troubleshoot hardware and software issues.
-- Assist in office administrative duties and set up computers for new employees.
+### Software Application Developer | Datec Fiji
+**July 2023 – Present**
 
-## Hobbies
-- Understanding different cultures through work/learning engagements.
-- Socializing with people.
-- Exploring personal goals in depth through work engagement.
-- Learning from respected computer science seniors and unlocking new personal potential.
+- Design, develop, test, deploy, and maintain enterprise applications using C# and ASP.NET Core.
+- Develop RESTful APIs and integrate internal and third-party systems.
+- Design and optimize SQL Server databases, queries, and stored procedures.
+- Deploy and maintain applications using Microsoft IIS and Azure.
+- Manage source control, work items, and CI/CD pipelines using Azure DevOps.
+- Collaborate with stakeholders to gather requirements and deliver technical solutions.
+- Develop Power BI dashboards and reports for business intelligence.
+- Perform application troubleshooting, testing, deployment, and production support.
 
-## Projects
-- Here are a couple of my projects:
-   - FootballAssociation (Work-in-progress)
-       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Football%20Talent%20Portal%20README.md)   
-     
-   - BudgetBuddy (Completed)
-       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/Budget%20Buddy%20README.md)
+**Key Projects:**
+- TSLS Advisory & Complaint Management System
+- Vodafone Fiji & PNG Enterprise Systems
+- Air Terminal Services Operational Systems
+- Ministry of Health Systems
+- Internal Enterprise Applications
 
-   - TicTacToe (Completed)
-       - Repository: [README.md](https://github.com/RahilPrakashRam/RahilPrakashRam/blob/main/TicTacToe%20README.MD)  
+### Teaching Assistant | The University of the South Pacific
+**February 2023 – December 2025**
 
-## Contact
-Feel free to reach out to me at:
-- Email: ramrahil216@gmail.com
-- Phone: +679 8697700
+- Delivered laboratory sessions for undergraduate Computing Science courses.
+- Supported over 600 students each semester.
+- Assisted students with C#, Java, SQL, database design, object-oriented programming, and software engineering.
+- Reviewed and debugged student applications.
+- Assisted with assessments and collaborated with lecturers to improve student learning outcomes.
 
-## Book a Demo
-Would you like to see a demonstration of my work? Click the button below to book a demo:
-- <a href="mailto:ramrahil216@gmail.com?subject=Demo%20Request">Book a Demo</a>
+---
 
+## 📂 Featured Projects
+
+### 1. VitiDesk – Helpdesk & Ticket Management System
+
+A full-stack helpdesk and ticket management application built using ASP.NET Core.
+
+**Technologies:** C#, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, Azure, Bootstrap, JavaScript.
+
+**Key Features:**
+- Ticket creation and management.
+- User authentication and role-based access control.
+- Ticket assignment and status tracking.
+- Asset management.
+- Knowledge base.
+- Reporting and dashboards.
+- RESTful API architecture.
+
+🔗 **Repository:** [VitiDesk](https://github.com/RahilPrakashRam/VitiDesk)
+
+### 2. 3D Island Survival Game – In Development 🎮
+
+A personal game development project focused on creating a stylized 3D island survival experience.
+
+**Technologies:** Unity, Blender, C#
+
+**Development Goals:**
+- Create stylized tropical island environments.
+- Develop 3D assets, props, and environmental objects.
+- Implement first-person player movement and interactions.
+- Explore survival mechanics, resource gathering, and crafting.
+- Learn 3D modelling, texturing, animation, and game development workflows.
+
+This project is part of my journey into independent game development.
+
+---
+
+## 🎓 Education
+
+**Postgraduate Degree – Information Systems**  
+The University of the South Pacific  
+January 2026 – October 2027 (Expected)
+
+**Bachelor of Science – Double Major in Computing Science & Information Systems**  
+The University of the South Pacific  
+January 2020 – March 2024  
+GPA: 3.19
+
+---
+
+## 🏆 Certifications
+
+### Microsoft Certifications
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
+- AZ-204: Developing Solutions for Microsoft Azure
+- DP-100: Designing and Implementing a Data Science Solution on Microsoft Azure
+- PL-300: Microsoft Power BI Data Analyst
+
+### Professional Training
+- Business & Requirements Analysis
+- RESTful API Design and Integration
+- Effective Customer Training
+
+---
+
+## 📫 Connect With Me
+
+- **Portfolio:** [rahilram-portfolio.vercel.app](https://rahilram-portfolio.vercel.app/)
+- **LinkedIn:** [Rahil Prakash Ram](https://www.linkedin.com/in/rahil-ram-3a388224b/)
+- **GitHub:** [RahilPrakashRam](https://github.com/RahilPrakashRam)
+- **Email:** ramrahil216@gmail.com
+- **Phone:** +679 8697700
+
+---
+
+### 💡 My Interests
+
+Software Engineering | Artificial Intelligence | Machine Learning | Cloud Computing | Game Development | Technology Innovation
+
+*Always learning, building, and exploring new technologies.*
